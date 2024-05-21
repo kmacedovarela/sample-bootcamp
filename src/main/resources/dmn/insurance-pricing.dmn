@@ -35,7 +35,7 @@
           <dmn:text>false</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_7bfcb62c-a39c-457e-9816-04038f77f757">
-          <dmn:text>1000</dmn:text>
+          <dmn:text>1001</dmn:text>
         </dmn:outputEntry>
         <dmn:annotationEntry>
           <dmn:text/>
@@ -93,7 +93,13 @@
     <dmndi:DMNDiagram id="_365848A8-CC25-4715-8BCD-20AFC143D686" name="DRG">
       <di:extension>
         <kie:ComponentsWidthsExtension>
-          <kie:ComponentWidths dmnElementRef="_c521212f-52c8-4295-bf23-b277a7f42c23"/>
+          <kie:ComponentWidths dmnElementRef="_c521212f-52c8-4295-bf23-b277a7f42c23">
+            <kie:width>50</kie:width>
+            <kie:width>100</kie:width>
+            <kie:width>100</kie:width>
+            <kie:width>100</kie:width>
+            <kie:width>100</kie:width>
+          </kie:ComponentWidths>
         </kie:ComponentsWidthsExtension>
       </di:extension>
       <dmndi:DMNShape id="dmnshape-drg-_921a00ec-6199-4073-b139-494835a422ce" dmnElementRef="_921a00ec-6199-4073-b139-494835a422ce" isCollapsed="false">
